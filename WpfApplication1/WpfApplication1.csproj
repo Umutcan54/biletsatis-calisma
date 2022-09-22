@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6EFAF5D3-B811-4FD9-AF71-0D3F3EE37568}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WpfApplication1</RootNamespace>
+    <AssemblyName>WpfApplication1</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AutoGenerateBindingRedirects>false</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="WpfApplication2">
+      <HintPath>..\..\WpfApplication2\bin\Debug\WpfApplication2.exe</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Window1.xaml.cs">
+      <DependentUpon>Window1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="form_kullanıcıgiris.xaml.cs">
+      <DependentUpon>form_kullanıcıgiris.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Window3.xaml.cs">
+      <DependentUpon>Window3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Window4.xaml.cs">
+      <DependentUpon>Window4.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Window5.xaml.cs">
+      <DependentUpon>Window5.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Window6.xaml.cs">
+      <DependentUpon>Window6.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Window7.xaml.cs">
+      <DependentUpon>Window7.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Window8.xaml.cs">
+      <DependentUpon>Window8.xaml</DependentUpon>
+    </Compile>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="Window1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="form_kullanıcıgiris.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Window3.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Window4.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Window5.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Window6.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Window7.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Window8.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Ukrayna-Türkiye-Otobüs-Fiyatı.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\404800.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Masaüstü-arka-plan-hd-3d.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\24042017191723-MAN - İÇ MEKAN 1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\depositphotos_125862548-stock-illustration-home-sign-icon-main-page.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\kisspng-computer-icons-businessperson-organization-boys-and-girls-dormitory-icon-5ae095b0e557c8.9167559915246678249394.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\indir.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\twitter-arka-plan-background-4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\depositphotos_41724139-stock-illustration-back-and-forward-arrow-icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\kullanıcıhesapları.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\jeöaüçj.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\500_F_40517763_Flxp2hrIzBkAapMZEEYcuLbxTxyDMRAS.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\depositphotos_101541456-stock-illustration-user-icon-team-people-vector.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\user1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\kullanıcıhesapları1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\800px_COLOURBOX9649527.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\black.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\indir1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\brick-wall-dark-old-dark-brick-wall-stock-photo-brick-wall-background-dark.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\kullanıcıhesapları2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\indir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\brick-wall-dark-old-dark-brick-wall-stock-photo-brick-wall-background-dark1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\metallic-grid-motion-background-dark-metal-background-with-perforated-holes_4_vk3q72x__F0000.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\800px_COLOURBOX25599373.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\otobüs-içi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\photo-1530482817083-29ae4b92ff15.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\images1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\seat-airplane-bus-cinema-transport-450w-1097140643.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\41-414843_school-bus-seating-school-bus-seat-clipart-png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Adsız.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Yeni Tourliner_Detay %284%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\dark-wall-background_1390-191.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\255628fb271af9b.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\depositphotos_92008268-stock-illustration-recycle-bin-outline-icon-modern.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\çö-kutusu1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\arama.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,77 @@
+﻿<Window x:Class="WpfApplication1.Window6"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Window6" Height="455" Width="969" Loaded="Window_Loaded">
+    <Grid Height="421" Width="953">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="410*" />
+            <ColumnDefinition Width="543*" />
+        </Grid.ColumnDefinitions>
+        <GroupBox FontFamily="Verdana" FontWeight="Bold" Foreground="White" Header="KİŞİSEL BİLGİLER" Height="246" HorizontalAlignment="Left" Margin="68,95,0,0" Name="groupBox1" VerticalAlignment="Top" Width="311">
+            <Grid>
+                <Grid.Background>
+                    <ImageBrush />
+                </Grid.Background>
+                <Label Background="{x:Null}" Content="T.C.KİMLİK" FontFamily="Verdana" FontSize="13" FontWeight="Bold" Foreground="#FFF89999" Height="28" HorizontalAlignment="Left" Margin="6,15,0,0" Name="label1" VerticalAlignment="Top" Width="94" />
+                <Label Background="{x:Null}" Content="İSİM" FontFamily="Verdana" FontSize="13" FontWeight="Bold" Foreground="#FFF89999" Height="28" HorizontalAlignment="Left" Margin="6,49,0,0" Name="label2" VerticalAlignment="Top" />
+                <Label Background="{x:Null}" Content="SOYİSİM" FontFamily="Verdana" FontSize="13" FontWeight="Bold" Foreground="#FFF89999" HorizontalAlignment="Left" Margin="6,84,0,112" Name="label3" />
+                <Label Background="{x:Null}" Content="YAŞ " FontFamily="Verdana" FontSize="13" FontWeight="Bold" Foreground="#FFF89999" Height="28" HorizontalAlignment="Left" Margin="7,118,0,0" Name="label4" VerticalAlignment="Top" />
+                <Label Background="{x:Null}" Content="TELEFON" FontFamily="Verdana" FontSize="13" FontWeight="Bold" Foreground="#FFF89999" Height="28" HorizontalAlignment="Left" Margin="7,152,0,0" Name="label5" VerticalAlignment="Top" />
+                <Label Background="{x:Null}" Content="CİNSİYET" FontFamily="Verdana" FontSize="13" FontWeight="Bold" Foreground="#FFF89999" Height="28" HorizontalAlignment="Left" Margin="7,0,0,9" Name="label6" VerticalAlignment="Bottom" />
+                <TextBox Height="23" HorizontalAlignment="Left" Margin="97,19,0,0" Name="textBox1" VerticalAlignment="Top" Width="120" FontFamily="Verdana" FontSize="13" />
+                <TextBox Height="23" HorizontalAlignment="Left" Margin="97,53,0,0" Name="textBox2" VerticalAlignment="Top" Width="120" FontFamily="Verdana" FontSize="13" />
+                <TextBox Height="23" HorizontalAlignment="Left" Margin="96,88,0,0" Name="textBox3" VerticalAlignment="Top" Width="120" FontFamily="Verdana" FontSize="13" />
+                <ComboBox Height="23" HorizontalAlignment="Left" Margin="96,123,0,0" Name="comboBox1" VerticalAlignment="Top" Width="120" FontFamily="Verdana" FontSize="13">
+                    <ComboBoxItem Content="0-7" />
+                    <ComboBoxItem Content="7-15" />
+                    <ComboBoxItem Content="15-25" />
+                    <ComboBoxItem Content="25-35" />
+                    <ComboBoxItem Content="35-50" />
+                    <ComboBoxItem Content="50-65" />
+                    <ComboBoxItem Content="65 &lt;" />
+                </ComboBox>
+                <TextBox Height="23" HorizontalAlignment="Left" Margin="96,157,0,0" Name="textBox4" VerticalAlignment="Top" Width="120" FontFamily="Verdana" FontSize="13" MaxLength="11" />
+                <ComboBox FontFamily="Verdana" Height="23" HorizontalAlignment="Left" Margin="96,188,0,0" Name="comboBox2" SelectedIndex="0" SelectionChanged="comboBox2_SelectionChanged" VerticalAlignment="Top" Width="150" FontSize="13">
+                    <ComboBoxItem Content="Cinsiyet Seçiniz" />
+                    <ComboBoxItem Content="BAY" />
+                    <ComboBoxItem Content="BAYAN" />
+                </ComboBox>
+            </Grid>
+        </GroupBox>
+        <GroupBox FontFamily="Verdana" FontWeight="Bold" Foreground="White" Header="GİDİŞ-GELİŞ İŞLEMLERİ" Height="246" HorizontalAlignment="Left" Margin="7,96,0,0" Name="groupBox2" VerticalAlignment="Top" Width="337" Grid.Column="1">
+            <Grid Height="223" Width="331">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="25*" />
+                    <ColumnDefinition Width="55*" />
+                    <ColumnDefinition Width="251*" />
+                </Grid.ColumnDefinitions>
+                <Label Background="{x:Null}" Content="NEREDEN" FontFamily="Verdana" FontSize="13" FontWeight="Bold" Foreground="#FFF89999" Grid.ColumnSpan="3" Height="28" HorizontalAlignment="Left" Margin="13,19,0,0" Name="label7" VerticalAlignment="Top" />
+                <Label Background="{x:Null}" Content="NEREYE" FontFamily="Verdana" FontSize="13" FontWeight="Bold" Foreground="#FFF89999" Grid.ColumnSpan="3" Height="28" HorizontalAlignment="Left" Margin="13,53,0,0" Name="label8" VerticalAlignment="Top" />
+                <Label Background="{x:Null}" Content="YOL SAATLERİ" FontFamily="Verdana" FontSize="13" FontWeight="Bold" Foreground="#FFF89999" Grid.ColumnSpan="3" Height="28" HorizontalAlignment="Left" Margin="13,92,0,0" Name="label9" VerticalAlignment="Top" />
+                <Label Background="{x:Null}" Content="BİLET ADETİ" FontFamily="Verdana" FontSize="13" FontWeight="Bold" Foreground="#FFF89999" Grid.ColumnSpan="3" Height="28" HorizontalAlignment="Left" Margin="13,126,0,0" Name="label10" VerticalAlignment="Top" />
+                <ComboBox FontFamily="Verdana" Grid.Column="2" Height="23" HorizontalAlignment="Left" Margin="47,56,0,0" Name="comboBox4" SelectedIndex="0" VerticalAlignment="Top" Width="132" SelectionChanged="comboBox4_SelectionChanged">
+                    <ComboBoxItem Content="ŞEHİR SEÇİNİZ" />
+                </ComboBox>
+                <ComboBox Grid.Column="2" Height="23" HorizontalAlignment="Left" Margin="59,92,0,0" Name="comboBox5" VerticalAlignment="Top" Width="120" FontFamily="Verdana" SelectionChanged="comboBox5_SelectionChanged"></ComboBox>
+                <ComboBox Grid.Column="2" Height="23" HorizontalAlignment="Left" Margin="59,0,0,74" Name="comboBox6" VerticalAlignment="Bottom" Width="120" FontFamily="Verdana" SelectedIndex="0">
+                    <ComboBoxItem Content="1" />
+                </ComboBox>
+                <ComboBox FontFamily="Verdana" Grid.Column="2" Height="23" HorizontalAlignment="Left" Margin="47,19,0,0" Name="comboBox3" SelectedIndex="0" Text="Şehir Seçiniz" VerticalAlignment="Top" Width="132" SelectionChanged="comboBox3_SelectionChanged">
+                    <ComboBoxItem Content="ŞEHİR SEÇİNİZ" />
+                </ComboBox>
+                <Label Content="TARİH" Height="28" HorizontalAlignment="Left" Margin="13,158,0,0" Name="label12" VerticalAlignment="Top" IsEnabled="False" Background="{x:Null}" Foreground="#FFF89999" Width="56" FontSize="13" Grid.ColumnSpan="2" FontFamily="Verdana" />
+                <DatePicker Grid.Column="2" Height="25" HorizontalAlignment="Left" Margin="47,161,0,0" Name="datePicker1" VerticalAlignment="Top" Width="132" />
+                <Button Content="OK" Grid.Column="2" Height="28" HorizontalAlignment="Left" Margin="185,17,0,0" Name="button3" VerticalAlignment="Top" Width="53" Click="button3_Click" Background="{x:Null}" Foreground="#FFF89999" FontSize="15" />
+                <Button Content="OK" Grid.Column="2" Height="28" HorizontalAlignment="Right" Margin="0,53,13,0" Name="button4" VerticalAlignment="Top" Width="53" Background="{x:Null}" Foreground="#FFF89999" FontWeight="Bold" FontSize="15" Click="button4_Click" />
+            </Grid>
+        </GroupBox>
+        <Label Height="79" HorizontalAlignment="Left" Margin="188,12,0,0" Name="label11" VerticalAlignment="Top" FontWeight="Bold" FontStyle="Italic" FontSize="48" Foreground="#FFF89999" Background="{x:Null}" Grid.ColumnSpan="2" Width="428" Content="BİLET SATIN AL" FontFamily="Viner Hand ITC" />
+        <Button Content="BİLETİ SATIN AL" Grid.Column="1" Height="52" HorizontalAlignment="Left" Margin="350,126,0,0" Name="button1" VerticalAlignment="Top" Width="174" FontWeight="Bold" FontSize="17" FontFamily="Verdana" Background="{x:Null}" Foreground="#FFF89999" Click="button1_Click" />
+        <Button Content="ANASAYFA" Height="44" HorizontalAlignment="Left" Name="button2" VerticalAlignment="Top" Width="75" Background="{x:Null}" Foreground="#FFF89999" FontSize="15" Click="button2_Click" />
+        <Label Content="NEREDEN DE SEÇTİĞİNİZ ŞEHİRDEN SONRA YANINDAKİ BUTONA TIKLAYINIZ Kİ SEFERLERİ GÖRÜNÜZ!!!" Height="24" HorizontalAlignment="Left" Margin="12,348,0,0" Name="label13" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="729" Foreground="#FFF89999" FontSize="12" FontFamily="Verdana" FontWeight="Bold" Visibility="Hidden" />
+        <Label Content="GİDECEĞİNİZ YERİ SEÇTİKTEN SONRA ORAYA GİDEN OTOBÜSÜN SEFER SAATİNİ GÖRMEK İÇİN YANINDAKİ BUTONA TIKLAYINIZ!!!" Height="28" HorizontalAlignment="Left" Margin="12,381,0,0" Name="label15" VerticalAlignment="Top" Foreground="#FFF89999" Grid.ColumnSpan="2" Width="907" FontSize="12" FontFamily="Verdana" FontWeight="Bold" Visibility="Hidden" />
+        <Grid.Background>
+            <ImageBrush ImageSource="/WpfApplication1;component/Images/images1.jpg" />
+        </Grid.Background>
+    </Grid>
+</Window>

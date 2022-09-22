@@ -1,0 +1,141 @@
+C:\Users\acer\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+C:\Users\acer\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+C:\Users\acer\Desktop\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\acer\Desktop\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\acer\Desktop\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication2.pdb
+C:\Users\acer\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.baml
+C:\Users\acer\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\Window1.baml
+C:\Users\acer\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\Window2.baml
+C:\Users\acer\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\acer\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\Window1.g.cs
+C:\Users\acer\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\Window2.g.cs
+C:\Users\acer\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\App.g.cs
+C:\Users\acer\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\acer\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+C:\Users\acer\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\acer\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\Window3.baml
+C:\Users\acer\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\Window3.g.cs
+D:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+D:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+D:\2.dönem visual\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\2.dönem visual\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\2.dönem visual\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication2.exe
+D:\2.dönem visual\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication2.pdb
+D:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+D:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.baml
+D:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\Window1.baml
+D:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\Window3.baml
+D:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\Window4.baml
+D:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+D:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\Window1.g.cs
+D:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\Window3.g.cs
+D:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\Window4.g.cs
+D:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\App.g.cs
+D:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+D:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+D:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+D:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.Cache
+D:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\Window5.baml
+D:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\Window5.g.cs
+D:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\Window6.baml
+D:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\Window6.g.cs
+D:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\form_kullanıcıgiris.baml
+D:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\form_kullanıcıgiris.g.cs
+F:\2.dönem visual\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+F:\2.dönem visual\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+F:\2.dönem visual\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication2.exe
+F:\2.dönem visual\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication2.pdb
+F:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.baml
+F:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\Window1.baml
+F:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\form_kullanıcıgiris.baml
+F:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\Window3.baml
+F:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\Window4.baml
+F:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\Window5.baml
+F:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\Window6.baml
+F:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+F:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\Window1.g.cs
+F:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\form_kullanıcıgiris.g.cs
+F:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\Window3.g.cs
+F:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\Window4.g.cs
+F:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\Window5.g.cs
+F:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\Window6.g.cs
+F:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\App.g.cs
+F:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+F:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+F:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+F:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.Cache
+F:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+F:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+F:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+F:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\Window8.baml
+F:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\Window8.g.cs
+F:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\Window7.baml
+F:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\Window7.g.cs
+D:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\Window7.baml
+D:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\Window8.baml
+D:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\Window7.g.cs
+D:\2.dönem visual\WpfApplication1\WpfApplication1\obj\x86\Debug\Window8.g.cs
+D:\2.dönem visual\umutcan engin 11a 476\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+D:\2.dönem visual\umutcan engin 11a 476\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+F:\veri tabanı proje ödevim(LİSE)\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+F:\veri tabanı proje ödevim(LİSE)\WpfApplication1\bin\Debug\WpfApplication1.exe
+F:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.SuggestedBindingRedirects.cache
+F:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\MainWindow.baml
+F:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\Window1.baml
+F:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\form_kullanıcıgiris.baml
+F:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\Window3.baml
+F:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\Window4.baml
+F:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\Window5.baml
+F:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\Window6.baml
+F:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\Window7.baml
+F:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\Window8.baml
+F:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+F:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\Window1.g.cs
+F:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\form_kullanıcıgiris.g.cs
+F:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\Window3.g.cs
+F:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\Window4.g.cs
+F:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\Window5.g.cs
+F:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\Window6.g.cs
+F:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\Window7.g.cs
+F:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\Window8.g.cs
+F:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\App.g.cs
+F:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+F:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+F:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+F:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.cache
+F:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.CoreCompileInputs.cache
+F:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+F:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+F:\veri tabanı proje ödevim(LİSE)\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\veri tabanı proje ödevim(LİSE)\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\veri tabanı proje ödevim(LİSE)\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.AssemblyReference.cache
+D:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.SuggestedBindingRedirects.cache
+D:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\MainWindow.baml
+D:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\Window1.baml
+D:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\form_kullanıcıgiris.baml
+D:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\Window3.baml
+D:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\Window4.baml
+D:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\Window5.baml
+D:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\Window6.baml
+D:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\Window7.baml
+D:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\Window8.baml
+D:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+D:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\Window1.g.cs
+D:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\form_kullanıcıgiris.g.cs
+D:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\Window3.g.cs
+D:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\Window4.g.cs
+D:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\Window5.g.cs
+D:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\Window6.g.cs
+D:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\Window7.g.cs
+D:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\Window8.g.cs
+D:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\App.g.cs
+D:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+D:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+D:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+D:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.cache
+D:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.CoreCompileInputs.cache
+D:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+D:\veri tabanı proje ödevim(LİSE)\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb

@@ -1,0 +1,19 @@
+﻿<Window x:Class="WpfApplication1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="380" Width="724" Loaded="Window_Loaded">
+    <Grid Height="340" Width="700">
+        <Grid.Background>
+            <ImageBrush ImageSource="/WpfApplication1;component/Images/404800.jpg" />
+        </Grid.Background>
+        <Menu Background="#FF030407" Height="20" Margin="0,22,0,0" Name="menu1" VerticalAlignment="Top">
+            <MenuItem Foreground="White" Header=" KULLANICI GİRİŞ" Click="MenuItem_Click_2" FontWeight="Bold"></MenuItem>
+            <MenuItem Foreground="#FFFCFFFF" Header="KAYIT OL" Click="MenuItem_Click_4" FontWeight="Bold"></MenuItem>
+            <MenuItem Header="ADMİN GİRİŞ" Foreground="#FFF5F9FF" Click="MenuItem_Click_3" FontWeight="Bold" />
+            <MenuItem Header="ÇIKIŞ" Foreground="WhiteSmoke" FontWeight="Bold" Click="MenuItem_Click_5" />
+        </Menu>
+        <Label Content="UMT TURİZM" FontFamily="Viner Hand ITC" FontSize="31" FontWeight="Bold" Foreground="#FF141517" Height="41" HorizontalAlignment="Left" IsEnabled="False" Margin="449,54,0,0" Name="label1" VerticalAlignment="Top" Width="236" />
+        <Label Height="25" HorizontalAlignment="Left" Margin="30,310,0,0" Name="label2" VerticalAlignment="Top" Width="93" Background="{x:Null}" FontSize="13" Foreground="Black" FontWeight="Bold" />
+        <Label Height="25" Margin="129,310,473,0" Name="label3" VerticalAlignment="Top" Background="{x:Null}" FontSize="13" Foreground="Black" FontWeight="Bold" />
+    </Grid>
+</Window>

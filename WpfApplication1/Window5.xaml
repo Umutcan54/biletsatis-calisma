@@ -1,0 +1,24 @@
+﻿<Window x:Class="WpfApplication1.Window5"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Window5" Height="387" Width="571" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/WpfApplication1;component/Images/metallic-grid-motion-background-dark-metal-background-with-perforated-holes_4_vk3q72x__F0000.png" />
+        </Grid.Background>
+        <Menu Height="23" HorizontalAlignment="Left" Name="menu1" VerticalAlignment="Top" Width="725" Background="#FF0D0000">
+            <MenuItem Header="BİLET SATIN AL" Click="MenuItem_Click" Foreground="#FFFFEFEF" FontWeight="Bold" FontFamily="Verdana" />
+        </Menu>
+        <Label Content="AD" Height="28" HorizontalAlignment="Left" Margin="170,71,0,0" Name="label1" VerticalAlignment="Top" Foreground="White" FontWeight="Bold" FontFamily="Viner Hand ITC" />
+        <Label Content="SOYAD" Height="28" HorizontalAlignment="Left" Margin="146,107,0,0" Name="label2" VerticalAlignment="Top" Foreground="White" FontWeight="Bold" FontFamily="Viner Hand ITC" />
+        <Label Content="KULLANICI ADI" Height="28" HorizontalAlignment="Left" Margin="86,140,0,0" Name="label3" VerticalAlignment="Top" Foreground="White" FontWeight="Bold" FontFamily="Viner Hand ITC" />
+        <Label Content="ŞİFRE" Height="28" HorizontalAlignment="Left" Margin="154,175,0,0" Name="label4" VerticalAlignment="Top" Foreground="White" FontWeight="Bold" FontFamily="Viner Hand ITC" />
+        <Label Content="TELEFON" Height="28" HorizontalAlignment="Left" Margin="133,218,0,0" Name="label5" VerticalAlignment="Top" Foreground="White" FontWeight="Bold" FontFamily="Viner Hand ITC" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="239,71,0,0" Name="textBox1" VerticalAlignment="Top" Width="120" FontWeight="Bold" FontFamily="Viner Hand ITC" FontSize="14" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="239,109,0,0" Name="textBox2" VerticalAlignment="Top" Width="120" FontWeight="Bold" FontFamily="Viner Hand ITC" FontSize="14" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="239,142,0,0" Name="textBox3" VerticalAlignment="Top" Width="120" FontWeight="Bold" FontFamily="Viner Hand ITC" FontSize="14" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="239,180,0,0" Name="textBox4" VerticalAlignment="Top" Width="120" FontWeight="Bold" FontFamily="Verdana" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="239,218,0,0" Name="textBox5" VerticalAlignment="Top" Width="120" FontWeight="Bold" FontFamily="Verdana" MaxLength="11" />
+        <Button Content="GÜNCELLE" Height="43" HorizontalAlignment="Right" Margin="0,272,278,0" Name="button1" VerticalAlignment="Top" Width="194" Click="button1_Click" Background="#FF0A0000" Foreground="White" FontWeight="Bold" FontFamily="Viner Hand ITC" />
+    </Grid>
+</Window>
